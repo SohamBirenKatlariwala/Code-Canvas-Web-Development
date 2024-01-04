@@ -1,6 +1,6 @@
 # Code-Canvas-Web-Development
-  <p>Portfolio</p>
+  <p>Portfolio </p>
   
-  Restaurant 
-  To-do-List
+  <p> Restaurant </p>
+  <p> To-do-List </p>
   
